@@ -1,0 +1,747 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-05 12:20+0200\n"
+"PO-Revision-Date: 2021-10-25 13:16+0200\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Cyrille <lafricain79@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+
+#: src/agent.c:158
+msgid "Authentication required"
+msgstr "Authentification requise"
+
+#: src/config.c:62
+msgid "Use fsid with openconnect"
+msgstr "Utiliser fsid avec openconnect"
+
+#: src/config.c:67
+msgid "Use status icon"
+msgstr "Utiliser l'icône de notification"
+
+#: src/config.c:70
+msgid "Launch to tray by default"
+msgstr "Lancement dans la barre d'état par défaut"
+
+#: src/config.c:74
+msgid "Settings"
+msgstr "Paramètres"
+
+#: src/connection.c:68
+msgid "Wired"
+msgstr "Connecté"
+
+#: src/connection.c:70
+msgid "Wireless"
+msgstr "Sans fil"
+
+#: src/connection.c:72
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: src/connection.c:74
+msgid "Cellular"
+msgstr "Cellulaire"
+
+#: src/connection.c:76
+msgid "P2P"
+msgstr "P2P"
+
+#: src/connection.c:78 src/vpn.c:102 src/vpn.c:176
+msgid "VPN"
+msgstr "VPN"
+
+#: src/connection.c:80
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: src/connection.c:91
+msgid "W_ired"
+msgstr "Co_nnecté"
+
+#: src/connection.c:93
+msgid "_Wireless"
+msgstr "_Sans fil"
+
+#: src/connection.c:95
+msgid "_Bluetooth"
+msgstr "_Bluetooth"
+
+#: src/connection.c:97
+msgid "_Cellular"
+msgstr "_Cellulaire"
+
+#: src/connection.c:99
+msgid "_P2P"
+msgstr "_P2P"
+
+#: src/connection.c:101
+msgid "_VPN"
+msgstr "_VPN"
+
+#: src/connection.c:103
+msgid "_Unknown"
+msgstr "Inconn_u"
+
+#: src/dialog.c:192 src/dialog.c:287
+msgid "_OK"
+msgstr "_OK"
+
+#: src/dialog.c:193
+msgid "_Cancel"
+msgstr "_Annuler"
+
+#: src/dialog.c:283
+msgid "Operation failed"
+msgstr "Échec de l’opération"
+
+#: src/main.c:95
+msgid "_Settings"
+msgstr "_Paramètres"
+
+#: src/main.c:415 src/vpn.c:145
+msgid "Failed to connect to ConnMan."
+msgstr "Échec de la connexion à ConnMan."
+
+#: src/main.c:573
+msgid "Failed to connect to system DBus."
+msgstr "Échec de la connexion au système DBus."
+
+#: src/main.c:619 src/settings.c:689
+msgid "Network Settings"
+msgstr "Paramètres Réseau"
+
+#: src/service.c:334 src/settings.c:160 src/settings.c:387
+msgid "IPv4 address"
+msgstr "Adresse IPv4"
+
+#: src/service.c:335
+msgid "IPv4 gateway"
+msgstr "Route IPv4"
+
+#: src/service.c:336 src/settings.c:161 src/settings.c:388
+msgid "IPv6 address"
+msgstr "Adresse IPv6"
+
+#: src/service.c:337
+msgid "IPv6 gateway"
+msgstr "Route IPv6"
+
+#: src/service.c:339 src/settings.c:158
+msgid "MAC address"
+msgstr "Adresse MAC"
+
+#: src/service.c:406
+msgid "IEEE8021x secured services have to be manually configured."
+msgstr "Les services sécurisés IEEE8021x doivent être configurés manuellement."
+
+#: src/service.c:410 src/service.c:442
+msgid "Failed to toggle connection state."
+msgstr "Échec du basculement de l'état de connexion."
+
+#: src/service.c:517
+msgid "Hidden ieee8021x secured network"
+msgstr "Réseau caché ieee8021x sécurisé"
+
+#: src/service.c:518
+msgid "Hidden WPA secured network"
+msgstr "Réseau caché WPA sécurisé"
+
+#: src/service.c:519
+msgid "Hidden WPS secured network"
+msgstr "Réseau caché WPS sécurisé"
+
+#: src/service.c:520
+msgid "Hidden unsecured network"
+msgstr "Réseau caché non sécurisé"
+
+#: src/service.c:544 src/settings.c:359
+msgid "Direct"
+msgstr "Direct"
+
+#: src/service.c:546 src/settings.c:242 src/settings.c:246 src/settings.c:361
+msgid "Automatic"
+msgstr "Automatique"
+
+#: src/service.c:548 src/settings.c:136 src/settings.c:239
+msgid "None"
+msgstr "Aucun"
+
+#: src/service.c:560
+msgid "On"
+msgstr "Activée"
+
+#: src/service.c:561
+msgid "Off"
+msgstr "Désactivée"
+
+#: src/settings.c:136 src/settings.c:140
+msgid "Security"
+msgstr "Sécurité"
+
+#: src/settings.c:149 src/settings.c:380
+msgid "_Info"
+msgstr "_Information"
+
+#: src/settings.c:152
+msgid "Autoconnect"
+msgstr "Auto-connection"
+
+#: src/settings.c:155 src/settings.c:383
+msgid "Name"
+msgstr "Nom"
+
+#: src/settings.c:156 src/settings.c:385
+msgid "State"
+msgstr "État"
+
+#: src/settings.c:159
+msgid "Interface"
+msgstr "Interface"
+
+#: src/settings.c:162 src/settings.c:305 src/settings.c:329 src/settings.c:389
+msgid "Nameservers"
+msgstr "Noms des serveurs"
+
+#: src/settings.c:187
+msgid "IP _details"
+msgstr "_Détails de l’IP"
+
+#: src/settings.c:188
+msgid "IPv4 method"
+msgstr "Méthode IPv4"
+
+#: src/settings.c:189 src/settings.c:195 src/settings.c:260 src/settings.c:268
+msgid "Address"
+msgstr "Adresse"
+
+#: src/settings.c:190 src/settings.c:196 src/settings.c:261 src/settings.c:271
+#: src/settings_content.c:676
+msgid "Gateway"
+msgstr "Route"
+
+#: src/settings.c:194
+msgid "IPv6 method"
+msgstr "Méthode IPv6"
+
+#: src/settings.c:215
+msgid "IPv_4"
+msgstr "IPv_4"
+
+#: src/settings.c:220
+msgid "IPv_6"
+msgstr "IPv_6"
+
+#: src/settings.c:236 src/settings.c:356
+msgid "Method"
+msgstr "Méthode"
+
+#: src/settings.c:254 src/settings.c:363
+msgid "Manual"
+msgstr "Manuelle"
+
+#: src/settings.c:263 src/settings.c:275 src/settings_content.c:674
+msgid "Netmask"
+msgstr "Masque de réseau"
+
+#: src/settings.c:265 src/settings_content.c:675 src/settings_content.c:911
+msgid "Prefix length"
+msgstr "Longueur du préfixe"
+
+#: src/settings.c:284
+msgid "Privacy"
+msgstr "Vie privée"
+
+#: src/settings.c:289 src/technology.c:143
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: src/settings.c:291
+msgid "Enabled"
+msgstr "Activé"
+
+#: src/settings.c:293
+msgid "Prefered"
+msgstr "Préféré"
+
+#: src/settings.c:303
+msgid "_Servers"
+msgstr "_Serveurs"
+
+#: src/settings.c:306 src/settings.c:334
+msgid "Timeservers"
+msgstr "Timeservers"
+
+#: src/settings.c:307 src/settings.c:342
+msgid "Domains"
+msgstr "Domaines"
+
+#: src/settings.c:308
+msgid "Proxy method"
+msgstr "Méthode du Proxy"
+
+#: src/settings.c:312 src/settings.c:369
+msgid "URL"
+msgstr "URL"
+
+#: src/settings.c:314 src/settings.c:372
+msgid "Servers"
+msgstr "Serveurs"
+
+#: src/settings.c:316 src/settings.c:374
+msgid "Excludes"
+msgstr "Exclus"
+
+#: src/settings.c:328
+msgid "_Nameservers"
+msgstr "_Noms des serveurs"
+
+#: src/settings.c:333
+msgid "_Timeservers"
+msgstr "_Timeservers"
+
+#: src/settings.c:337
+msgid "Custom Timeservers"
+msgstr "Personaliser les Timeservers"
+
+#: src/settings.c:341
+msgid "_Domains"
+msgstr "_Domaines"
+
+#: src/settings.c:354
+msgid "_Proxy"
+msgstr "_Proxy"
+
+#: src/settings.c:384
+msgid "Type"
+msgstr "Type"
+
+#: src/settings.c:386
+msgid "Host"
+msgstr "Hôte"
+
+#: src/settings.c:401
+msgid "Server fingerprint"
+msgstr "Empreinte du serveur"
+
+#: src/settings.c:403 src/settings.c:416
+msgid "Certificate Authority file"
+msgstr "Fichier d’autorité de certification"
+
+#: src/settings.c:405 src/settings.c:418
+msgid "Client certificate file"
+msgstr "Fichier de certification du client"
+
+#: src/settings.c:407
+msgid "VPN host"
+msgstr "Hôte VPN"
+
+#: src/settings.c:420
+msgid "Client private key file"
+msgstr "Fichier de la clé privée du client"
+
+#: src/settings.c:422
+msgid "Maximum transmission unit (MTU)"
+msgstr "Taille maximale de transmission (MTU)"
+
+#: src/settings.c:424
+msgid "Peer certificate type"
+msgstr "Type de certificat du pair"
+
+#: src/settings.c:426
+msgid "Protocol"
+msgstr "Protocole"
+
+#: src/settings.c:427
+msgid "Port"
+msgstr "Port"
+
+#: src/settings.c:428
+msgid "Authenticate using username/password"
+msgstr "Authentification utilisant le nom d’utilisateur/mot de passe"
+
+#: src/settings.c:430
+msgid "Private key password file"
+msgstr "Fichier du mot de passe de la clé privée"
+
+#: src/settings.c:432
+msgid "Do not cache password"
+msgstr "Ne pas mettre le mot de passe en cache"
+
+#: src/settings.c:434
+msgid "Cipher"
+msgstr "Clé de chiffrement"
+
+#: src/settings.c:436
+msgid "Message digest algorithm for packet authentication"
+msgstr "Algorithme de résumé de message pour l'authentification des paquets"
+
+#: src/settings.c:438
+msgid "Use fast LZO compression"
+msgstr "Utiliser la compression rapide LZO"
+
+#: src/settings.c:440
+msgid "External configuration file"
+msgstr "Fichier de configuration externe"
+
+#: src/settings.c:449
+msgid "Group username"
+msgstr "Nom d'utilisateur du groupe"
+
+#: src/settings.c:450 src/settings.c:473 src/settings.c:511
+msgid "Username"
+msgstr "Identifiant"
+
+#: src/settings.c:451
+msgid "IKE Authentication mode"
+msgstr "Mode d’authentification IKE"
+
+#: src/settings.c:453
+msgid "Diffie-Hellman group"
+msgstr "Groupe Diffie-Hellman"
+
+#: src/settings.c:454
+msgid "Domain"
+msgstr "Domaine"
+
+#: src/settings.c:455
+msgid "Vendor"
+msgstr "Fabricant"
+
+#: src/settings.c:456
+msgid "Local port"
+msgstr "Port local"
+
+#: src/settings.c:457
+msgid "Cisco port"
+msgstr "Port Cisco"
+
+#: src/settings.c:458
+msgid "Application version"
+msgstr "Version de l’application"
+
+#: src/settings.c:460
+msgid "NAT traversal method"
+msgstr "Méthode transversale NAT"
+
+#: src/settings.c:462
+msgid "DPD idle timeout"
+msgstr "Délai d'inactivité du DPD"
+
+#: src/settings.c:463
+msgid "Single DES encryption"
+msgstr "Chiffrement DES simple"
+
+#: src/settings.c:465
+msgid "No encryption"
+msgstr "Pas de chiffrement"
+
+#: src/settings.c:474
+msgid "Maximum bandwidth (bps)"
+msgstr "Débit binaire maximum (bps)"
+
+#: src/settings.c:475
+msgid "Maximum transmit bandwidth (tx)"
+msgstr "Largeur de bande de transmission maximale (tx)"
+
+#: src/settings.c:477
+msgid "Maximum receive bandwidth (rx)"
+msgstr "Largeur de bande de reception maximale (tx)"
+
+#: src/settings.c:479
+msgid "Use length bit"
+msgstr "Utiliser le bit de longueur"
+
+#: src/settings.c:480
+msgid "Use challenge authentication"
+msgstr ""
+
+#: src/settings.c:482
+msgid "Default route"
+msgstr "Route par défaut"
+
+#: src/settings.c:483
+msgid "Use seq numbers"
+msgstr ""
+
+#: src/settings.c:484
+msgid "Window size"
+msgstr "Taille de la fenêtre"
+
+#: src/settings.c:485
+msgid "Use only one control channel"
+msgstr "N'utiliser qu'un seul canal de contrôle"
+
+#: src/settings.c:487
+msgid "Redial if disconnected"
+msgstr "Recomposer si déconnecté"
+
+#: src/settings.c:489
+msgid "Redial timeout"
+msgstr "Délai de recomposition"
+
+#: src/settings.c:491
+msgid "Maximum redial tries"
+msgstr "Essaies maximum de recomposition"
+
+#: src/settings.c:493
+msgid "Require PAP"
+msgstr "PAP est requis"
+
+#: src/settings.c:494
+msgid "Require CHAP"
+msgstr "CHAP est requis"
+
+#: src/settings.c:495
+msgid "Require authentication"
+msgstr "Une authentification est requise"
+
+#: src/settings.c:497
+msgid "Accept only these peers"
+msgstr "Accepter seulement ces pairs"
+
+#: src/settings.c:499
+msgid "Authentication file location"
+msgstr "Emplacement du fichier d'authentification"
+
+#: src/settings.c:501
+msgid "Listen address"
+msgstr "Adresse d'écoute"
+
+#: src/settings.c:502
+msgid "Use IPSec SA"
+msgstr "Utiliser IPSec SA"
+
+#: src/settings.c:503
+msgid "UDP Port"
+msgstr "Port UDP"
+
+#: src/settings.c:519
+msgid "Dead peer check count"
+msgstr ""
+
+#: src/settings.c:521
+msgid "Dead peer check interval"
+msgstr ""
+
+#: src/settings.c:523
+msgid "Debug level"
+msgstr "Niveau de débogage"
+
+#: src/settings.c:524
+msgid "Refuse EAP authentication"
+msgstr "Refuser l'authentification EAP"
+
+#: src/settings.c:526
+msgid "Refuse PAP authentication"
+msgstr "Refuser l'authentification PAP"
+
+#: src/settings.c:528
+msgid "Refuse CHAP authentication"
+msgstr "Refuser l'authentification CHAP"
+
+#: src/settings.c:530
+msgid "Refuse MSCHAP authentication"
+msgstr "Refuser l'authentification MSCHAP"
+
+#: src/settings.c:532
+msgid "Refuse MSCHAPv2 authentication"
+msgstr "Refuser l'authentification MSCHAPv2"
+
+#: src/settings.c:534
+msgid "Disable BSD compression"
+msgstr "Désactiver la compression BSD"
+
+#: src/settings.c:536
+msgid "Disable DEFLATE compression"
+msgstr "Désactiver la compression DEFLATE"
+
+#: src/settings.c:538
+msgid "Require the use of MPPE"
+msgstr "L’utilisation MPPE est requise"
+
+#: src/settings.c:540
+msgid "Require the use of MPPE 40 bit"
+msgstr "L’utilisation MPPE 40 bit est requise"
+
+#: src/settings.c:542
+msgid "Require the use of MPPE 128 bit"
+msgstr "L’utilisation MPPE 128 bit est requise"
+
+#: src/settings.c:544
+msgid "Allow MPPE to use stateful mode"
+msgstr "Permettre à MPPE d'utiliser le mode stateful"
+
+#: src/settings.c:546
+msgid "No Van Jacobson compression"
+msgstr "Pas de compression Van Jacobson"
+
+#: src/settings.c:565
+msgid "_Clear settings"
+msgstr "Effa_cer les paramètres"
+
+#: src/settings.c:567
+msgid "_Reset"
+msgstr "_Réinitialiser"
+
+#: src/settings.c:568
+msgid "_Forget"
+msgstr "_Oublier"
+
+#: src/settings.c:569
+msgid "Set all properties to defaults."
+msgstr "Recharger tout les réglages par défaut."
+
+#: src/settings.c:570
+msgid "Remove this service."
+msgstr "Supprimer le service."
+
+#: src/settings.c:699
+msgid "_Apply"
+msgstr "_Appliquer"
+
+#: src/settings_content.c:670
+msgid "IP version"
+msgstr "Version de l’IP"
+
+#: src/settings_content.c:673
+msgid "Network"
+msgstr "Réseau"
+
+#: src/status.c:87
+msgid "Open app"
+msgstr "Démarrez l'application"
+
+#: src/status.c:88
+msgid "Exit"
+msgstr "Quitter"
+
+#: src/technology.c:120 src/vpn.c:178
+msgid "Connected"
+msgstr "Connecté"
+
+#: src/technology.c:135
+msgid "Tethering"
+msgstr "Partage de connexion"
+
+#: src/technology.c:138 src/vpn.c:182
+msgid "Not connected"
+msgstr "Non connectée"
+
+#: src/technology.c:220
+msgid "Disable _tethering"
+msgstr "Désactiver le par_tage de connexion"
+
+#: src/technology.c:222 src/technology.c:312
+msgid "Enable _tethering"
+msgstr "Activer le par_tage de connexion"
+
+#: src/technology.c:245 src/technology.c:307 src/technology.c:576
+msgid "_Connect"
+msgstr "_Connecter"
+
+#: src/technology.c:247 src/technology.c:572
+msgid "Re_connect"
+msgstr "Re_connecter"
+
+#: src/technology.c:249 src/technology.c:574
+msgid "Dis_connect"
+msgstr "Dé_connecter"
+
+#: src/technology.c:619
+msgid "Failed to enable ethernet tethering."
+msgstr "Échec de l'activation du partage de connexion Ethernet."
+
+#: src/technology.c:620
+msgid "Ethernet tethering has to be manually allowed in /etc/connman/main.conf."
+msgstr "Le partage de connexion Ethernet doit être autorisé manuellement dans /etc/connman/main.conf."
+
+#: src/util.c:119
+msgid "Idle"
+msgstr "Inactif"
+
+#: src/util.c:121
+msgid "Failure"
+msgstr "Échec"
+
+#: src/util.c:123
+msgid "Association"
+msgstr "Association"
+
+#: src/util.c:125
+msgid "Configuration"
+msgstr "Configuration"
+
+#: src/util.c:127
+msgid "Ready"
+msgstr "Prêt"
+
+#: src/util.c:129
+msgid "Disconnected"
+msgstr "Déconnecté"
+
+#: src/util.c:131
+msgid "Online"
+msgstr "En ligne"
+
+#: src/util.c:133
+msgid "Error"
+msgstr "Erreur"
+
+#: src/util.c:139
+msgid "Out of range"
+msgstr "Hors de la plage"
+
+#: src/util.c:141
+msgid "PIN missing"
+msgstr "Le code PIN est manquant"
+
+#: src/util.c:143
+msgid "DHCP failed"
+msgstr "Le DHCP a échoué"
+
+#: src/util.c:145
+msgid "Connecting failed"
+msgstr "La connexion a échoué"
+
+#: src/util.c:147
+msgid "Login failed"
+msgstr "Échec de la connexion"
+
+#: src/util.c:149
+msgid "Authentication failed"
+msgstr "L’authentification a échoué"
+
+#: src/util.c:151
+msgid "Invalid key"
+msgstr "Clé invalide"
+
+#: src/vpn.c:180
+msgid "Connecting"
+msgstr "En cours de connexion"
+
+#: src/wireless.c:131
+msgid "Set Access Point SSID and passphrase"
+msgstr "Définissez le SSID et la phrase de passe du point d'accès"
+
+#: src/wireless.c:143
+msgid "SSID"
+msgstr "SSID"
+
+#: src/wireless.c:144
+msgid "Passphrase"
+msgstr "Phrase de passe"
+
+#: src/wireless.c:145
+msgid "_Show passphrase"
+msgstr "Montrer la phrase de passe"
